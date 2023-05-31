@@ -1,10 +1,10 @@
 const CONFIG = {
   // profile setting (required)
   profile: {
-    name: "wjh1065",
+    name: "ChangSeok Lee",
     image: "/pic.png", // If you want to create your own notion avatar, check out https://notion-avatar.vercel.app
     role: "Medical AI Research Engineer",
-    bio: "I’m currently learning Deep Learning in Medical Imaging & Web Development.",
+    bio: "while True: learn() -> Deep Learning in Medical Imaging & Web Development.",
     email: "wjh1065@gmail.com",
     linkedin: "",
     github: "wjh1065",
