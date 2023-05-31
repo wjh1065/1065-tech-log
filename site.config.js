@@ -2,9 +2,9 @@ const CONFIG = {
   // profile setting (required)
   profile: {
     name: "ChangSeok Lee",
-    image: "/pic.png", // If you want to create your own notion avatar, check out https://notion-avatar.vercel.app
+    image: "/profile.png", // If you want to create your own notion avatar, check out https://notion-avatar.vercel.app
     role: "Medical AI Research Engineer",
-    bio: "while True: learn() -> Deep Learning in Medical Imaging & Web Development.",
+    bio: "while True: learn()",
     email: "wjh1065@gmail.com",
     linkedin: "",
     github: "wjh1065",
@@ -12,14 +12,14 @@ const CONFIG = {
   },
   projects: [
     {
-      name: `1065-tech-log`,
-      href: "https://github.com/wjh1065/1065-tech-log",
+      name: `Ontol 3D`,
+      href: "https://3d.ontol.com/",
     },
   ],
   // blog setting (required)
   blog: {
-    title: "1065-tech-log",
-    description: "welcome to 1065-tech-log!",
+    title: "1065-Tech-log",
+    description: "welcome to 1065-Tech-log!",
     theme: "auto", // ['light', 'dark', 'auto']
   },
 
@@ -29,7 +29,7 @@ const CONFIG = {
   lang: "en-US", // ['en-US', 'zh-CN', 'zh-HK', 'zh-TW', 'ja-JP', 'es-ES', 'ko-KR']
   ogImageGenerateURL: "https://og-image-korean.vercel.app", // The link to generate OG image, don't end with a slash
   seo: {
-    keywords: ["Blog", "Website", "Notion"],
+    keywords: ["AI", "threejs", "deeplearning", "artificial intelligence", "medical"],
   },
 
   // notion configuration (required)
