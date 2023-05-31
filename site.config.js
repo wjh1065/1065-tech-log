@@ -18,13 +18,13 @@ const CONFIG = {
   ],
   // blog setting (required)
   blog: {
-    title: "1065-Tech-log",
-    description: "welcome to 1065-Tech-log!",
+    title: "whileTrue-log",
+    description: "welcome to whileTrue-log!",
     theme: "auto", // ['light', 'dark', 'auto']
   },
 
   // CONFIG configration (required)
-  link: "https://1065-tech-log.vercel.app",
+  link: "https://whiletrue-log.vercel.app",
   since: 2022, // If leave this empty, current year will be used.
   lang: "en-US", // ['en-US', 'zh-CN', 'zh-HK', 'zh-TW', 'ja-JP', 'es-ES', 'ko-KR']
   ogImageGenerateURL: "https://og-image-korean.vercel.app", // The link to generate OG image, don't end with a slash
@@ -53,7 +53,7 @@ const CONFIG = {
   utterances: {
     enable: true,
     config: {
-      repo: "wjh1065/1065-tech-log",
+      repo: "wjh1065/whileTrue-log",
       "issue-term": "og:title",
       label: "💬 Utterances",
     },
